@@ -37,6 +37,7 @@
     "filepond-plugin-image-preview": "^4.6.12",
     "glightbox": "^3.3.0",
     "google-maps-react": "^2.0.6",
+    "install": "^0.13.0",
     "jsonwebtoken": "^9.0.2",
     "jsvectormap": "^1.5.3",
     "justgage": "^1.6.1",
