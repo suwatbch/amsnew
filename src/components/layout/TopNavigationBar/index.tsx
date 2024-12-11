@@ -38,9 +38,9 @@ const TopNavigationBar = () => {
                 </button>
               </form>
             </li> */}
-            {/* <LanguageDropdown /> */}
+            <LanguageDropdown />
             <ThemeModeToggle />
-            {/* <Notifications /> */}
+            <Notifications />
             <ProfileDropdown />
           </ul>
         </nav>
